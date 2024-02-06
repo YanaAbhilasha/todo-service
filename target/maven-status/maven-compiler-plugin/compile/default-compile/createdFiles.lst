@@ -1,0 +1,8 @@
+com\example\demo\model\TodoName.class
+com\example\demo\service\TodoServiceImpl.class
+com\example\demo\service\TodoService.class
+com\example\demo\TodoServiceApplication.class
+com\example\demo\controller\Controller.class
+com\example\demo\model\ToDo.class
+com\example\demo\repo\TodoRepository.class
+com\example\demo\ServletInitializer.class
