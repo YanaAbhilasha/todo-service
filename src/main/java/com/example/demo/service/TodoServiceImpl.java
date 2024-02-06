@@ -36,6 +36,7 @@ public class TodoServiceImpl implements TodoService{
 	@Override
 	public void delete(Integer id) {
 		// TODO Auto-generated method stub
+		return todoRepository.delete(todoservice)
 		
 	}
 
